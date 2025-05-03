@@ -1,5 +1,8 @@
 # Florence_2
-Image analysis on Florence Model
+
+You can access the [Florence_2](https://huggingface.co/spaces/Itanutiwari527/Florence-2-demo) model hosted on Hugging Face spaces.
+
+Image analysis on Florence Model.
 
 This repo contains analysis of Florence model on MS Coco Dataset (1k images from 2k17 val datset). Object Detection and Caption generation was tested. 
 
